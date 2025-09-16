@@ -1,3 +1,4 @@
+Copyright 2025 The Villanella Project Authors (https://github.com/cssobral2013/Villanella_Font)
 Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
