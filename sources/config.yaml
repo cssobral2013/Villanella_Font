@@ -1,9 +1,9 @@
 sources:
-  - SUSE.glyphs
-  - SUSE-Italic.glyphs
+  - Villanella.glyphs
+  - Villanella-Italic.glyphs
 
 axisOrder:
   - wght
   - ital
 
-familyName: SUSE
+familyName: Villanella
